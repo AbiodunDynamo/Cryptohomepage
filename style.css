@@ -143,7 +143,6 @@ section{
     width: 400px;
     border-radius: 20px;
     background-color: rgb(244, 158, 252);
-    border: solid blue 2px;
     display: flex;
     flex-direction: column;
     padding: 20px;
